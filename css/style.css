@@ -90,7 +90,7 @@ h4{font-size:2em}h5{font-size:.75em}h6{font-size:.75em}
 header {
 	width: 55%;
 	margin-right : auto;
-	margin-left : 28%;}
+	margin-left : 40%;}
 header .wrap-header{margin-left: 10px;margin-right: 10px;}
 /*header #logo {*/
 /*	background:white;*/
@@ -120,7 +120,7 @@ nav .wrap-nav{display: inline-block; background: #91DBD1; width: 100%;}
 /* ------------------Content------------------- */
 #content {width: 55%;
 	margin-right : auto;
-	margin-left : 28%;}
+	margin-left : 40%;}
 #content .wrap-content{background-color:#FFF; margin-top: 10px;}
 
 .block{}
@@ -175,7 +175,7 @@ nav .wrap-nav{display: inline-block; background: #91DBD1; width: 100%;}
 /* ------------------Footer-------------------- */
 footer {background-color:#76D2C5; margin-top:30px;width: 55%;
 	margin-right : auto;
-	margin-left : 28%;}
+	margin-left : 40%;}
 footer .wrap-footer{padding:10px 0px; color:#ffffff;}
 footer .box {}
 footer .box .heading { padding:0px;}
