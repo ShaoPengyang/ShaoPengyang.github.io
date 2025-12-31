@@ -36,4 +36,4 @@ Selected Publications
 
 Academic Services
 ======
-Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, etc. :contentReference[oaicite:9]{index=9}  
+Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, etc.
