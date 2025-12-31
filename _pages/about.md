@@ -25,8 +25,10 @@ Research Interests
 
 Selected Publications
 ======
+* denotes corresponding author. 
+
 - Pengyang Shao, Lei Chen, et al. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle. 
-- Jilong Liu, Pengyang Shao*(Corresponding author), et al. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026. 
+- Jilong Liu, Pengyang Shao*, et al. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026. 
 - Pengyang Shao, Yonghui Yang, et al. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025. 
 - Pengyang Shao, Le Wu, et al. Average User-side Counterfactual Fairness for Collaborative Filtering. ACM TOIS, 2024. 
 - Pengyang Shao, Le Wu, et al. FairCF: Fairness-aware collaborative filtering. Science China Information Sciences, 2022. 
