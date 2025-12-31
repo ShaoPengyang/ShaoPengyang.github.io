@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in July 2025 from Hefei University of Technology, supervised by Prof. Meng Wang. During my Ph.D. study, I focused on user modeling and LLM based agents.
-
-I am currently at the NExT++ Lab, National University of Singapore, working with Prof. Tat-Seng Chua. My current research focuses on LLM mechanisms and their practical deployment, including unlearning, personalization, and agents. During my visit, I have been developing methods for LLM unlearning and personalization, and related manuscripts are currently under submission.
+I received my Ph.D. degree in July 2025 from Hefei University of Technology, supervised by Prof. Meng Wang. During my Ph.D. study, I focused on user modeling and LLM based agents. I am currently a visiting researcher at the NExT++ Lab, National University of Singapore, supervised by Prof. Tat-Seng Chua. My current research focuses on LLM mechanisms and their practical deployment, including unlearning, personalization, and agents. During my visit, I have been developing methods for LLM unlearning and personalization, and related manuscripts are currently under submission.
 
 I am actively seeking Postdoctoral positions related to trustworthy LLMs and LLM applications. 
 
