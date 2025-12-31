@@ -18,9 +18,7 @@ I am actively seeking Postdoctoral positions related to trustworthy LLMs and LLM
 
 Research Interests
 ======
-- LLM unlearning
-- Agent safety
-- LLM applications
+LLM unlearning, Agent safety, LLM applications
 ---
 
 Selected Publications
