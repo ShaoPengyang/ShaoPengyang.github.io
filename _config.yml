@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Shao Pengyang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Stay hungry"
+  location         : # "Earth"
+  employer         : "National University of Singapore"
   uri              : # URL
   email            : "shaopymark@gmail.com" 
 
