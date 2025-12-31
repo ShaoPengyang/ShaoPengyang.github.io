@@ -22,7 +22,7 @@ LLM unlearning, Agent safety, LLM applications
 
 Selected Publications
 ======
-*denotes corresponding author. 
+\* denotes corresponding author. 
 
 - Pengyang Shao, Lei Chen, et al. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle. 
 - Jilong Liu, Pengyang Shao*, et al. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026. 
