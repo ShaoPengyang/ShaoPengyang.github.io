@@ -13,7 +13,7 @@ My research lies at information retrieval and large language models (LLMs). My m
 
 **I am actively seeking postdoctoral opportunities**. I am also open to research collaborations and mentorship, particularly with self-driven students. 
 
-Contact: shaopymark at gmail.com | shaopengyang at u.nus.edu
+Please feel free to reach out to me at *shaopymark at gmail.com* or *shaopengyang at u.nus.edu*.
 
 ---
 
