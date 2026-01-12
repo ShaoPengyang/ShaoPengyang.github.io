@@ -11,7 +11,7 @@ I am Pengyang Shao, a visiting researcher at NExT++ Lab (National University of 
 
 My research lies at information retrieval and large language models (LLMs). My main research interest focuses on LLM unlearning (targeted removal of specific knowledges or behaviors of LLM) or LLM safety (ensure LLM can refuse some queries). I am also interested in how to apply LLMs for downstream tasks, e.g., personalization. 
 
-**I am actively seeking postdoctoral opportunities related to LLM**. I am also open to research collaborations and mentorship, particularly with self-driven students. 
+**I am actively seeking postdoctoral opportunities**. I am also open to research collaborations and mentorship, particularly with self-driven students. 
 
 Contact: shaopymark at gmail.com | shaopengyang at u.nus.edu
 
