@@ -10,7 +10,8 @@ redirect_from:
 I received my Ph.D. degree in July 2025 from Hefei University of Technology, supervised by Prof. [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ). During my Ph.D. study, I focused on information retrieval and LLM based agents. I am currently a visiting researcher at the NExT++ Lab, National University of Singapore, supervised by Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=3kz6GDEAAAAJ). 
 My current research focuses on LLM mechanisms and their practical deployment, including unlearning or personalization. 
 
-I am actively seeking Postdoctoral positions related to LLM. 
+I am actively seeking postdoctoral opportunities related to large language models (LLMs). I am also open to research collaborations and would be happy to work with highly motivated, proactive students, providing guidance and mentorship as needed.  
+Please feel free to reach out to me at shaopymark at gmail.com or shaopengyang at u.nus.edu.
 
 
 ---
