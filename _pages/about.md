@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in July 2025 from Hefei University of Technology, supervised by Prof. [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ). During my Ph.D. study, I focused on user modeling and LLM based agents. I am currently a visiting researcher at the NExT++ Lab, National University of Singapore, supervised by Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=3kz6GDEAAAAJ). My current research focuses on LLM mechanisms and their practical deployment, including unlearning, personalization, and agents. During my visit, I have been developing methods for LLM unlearning and personalization, and related manuscripts are currently under submission.
+I received my Ph.D. degree in July 2025 from Hefei University of Technology, supervised by Prof. [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ). During my Ph.D. study, I focused on information retrieval and LLM based agents. I am currently a visiting researcher at the NExT++ Lab, National University of Singapore, supervised by Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=3kz6GDEAAAAJ). 
+My current research focuses on LLM mechanisms and their practical deployment, including unlearning or personalization. 
 
-I am actively seeking Postdoctoral positions related to trustworthy LLMs and LLM applications. 
+I am actively seeking Postdoctoral positions related to LLM. 
 
 
 ---
 
-Research Interests
+Current Research Interests
 ======
 LLM unlearning, Agent safety, LLM applications
 
@@ -37,3 +38,10 @@ Selected Publications
 Academic Services
 ======
 Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, etc.
+
+---
+
+Awards
+======
+- China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)				2024
+-	First-Class Graduate Academic Scholarship (awarded annually)		2021-2024
