@@ -15,10 +15,6 @@ My research lies at information retrieval and large language models (LLMs). My m
 
 Contact: shaopymark at gmail.com | shaopengyang at u.nus.edu
 
-
-Please feel free to reach out to me at shaopymark at gmail.com or shaopengyang at u.nus.edu.
-
-
 ---
 
 Research Interests
