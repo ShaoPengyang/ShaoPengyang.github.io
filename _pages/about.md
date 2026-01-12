@@ -16,7 +16,7 @@ Please feel free to reach out to me at shaopymark at gmail.com or shaopengyang a
 
 ---
 
-Current Research Interests
+Research Interests
 ======
 Trustworthy LLM/Agent, LLM based applications
 
