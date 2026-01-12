@@ -18,7 +18,7 @@ Please feel free to reach out to me at shaopymark at gmail.com or shaopengyang a
 
 Current Research Interests
 ======
-LLM unlearning, Agent safety, LLM applications
+Trustworthy LLM/Agent, LLM based applications
 
 ---
 
