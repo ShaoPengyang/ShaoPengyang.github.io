@@ -22,7 +22,7 @@ Trustworthy LLM/Agent, LLM based applications
 
 ---
 
-Selected Publications
+Publications (First Author / Corresponding Author)
 ======
 \* denotes corresponding author. 
 
