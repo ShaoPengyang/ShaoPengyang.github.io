@@ -9,7 +9,7 @@ redirect_from:
 
 I am Pengyang Shao, a visiting researcher at NExT++ Lab (National University of Singapore) working with [Prof. Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). I received my Ph.D. (July 2025) from Hefei University of Technology, supervised by [Prof. Meng Wang](https://sites.google.com/view/meng-wang/home).
 
-My research lies at the intersection of information retrieval and large language models (LLMs). My main research interest focuses on LLM unlearning (targeted removal of specific knowledges or behaviors of LLM) or LLM safety (ensure LLM can refuse some queries). I am also interested in how to apply LLMs for downstream tasks, e.g., personalization. 
+My research lies at information retrieval and large language models (LLMs). My main research interest focuses on LLM unlearning (targeted removal of specific knowledges or behaviors of LLM) or LLM safety (ensure LLM can refuse some queries). I am also interested in how to apply LLMs for downstream tasks, e.g., personalization. 
 
 **I am actively seeking postdoctoral opportunities related to LLM**. I am also open to research collaborations and mentorship, particularly with self-driven students. 
 
@@ -23,7 +23,7 @@ Please feel free to reach out to me at shaopymark at gmail.com or shaopengyang a
 
 Research Interests
 ======
-Trustworthy LLM/Agent, LLM based applications
+Trustworthy LLM/Agent, LLM based applications, Information Retrieval
 
 ---
 
