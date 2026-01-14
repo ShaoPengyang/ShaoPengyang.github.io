@@ -38,14 +38,14 @@ Featured Publications
       <br>
       We propose BalDRO, a distributionally robust optimization framework that addresses sample-wise imbalance in LLM unlearning.
       By formulating unlearning as a min–sup optimization, BalDRO adaptively emphasizes hard-to-forget samples and prevents
-      over-forgetting of easy ones. Extensive experiments on TOFU and MUSE benchmarks demonstrate the effectiveness of BalDRO.
+      over-forgetting of easy ones. 
     </div>
   </div>
 </div>
 
 <div class="pub-card">
   <div class="pub-fig">
-    <img src="/images/www2026.png" alt="paper figure">
+    <img src="/images/KDD2025.png" alt="paper figure">
   </div>
   <div class="pub-body">
     <div class="pub-desc">
@@ -53,7 +53,7 @@ Featured Publications
       <a href="https://arxiv.org/pdf/2403.05559">[pdf]</a>
       <a href="https://github.com/ShaoPengyang/ISG-CD">[code]</a>
       <br>
-      ISG-CD addresses two key challenges in GNN-based cognitive diagnosis: interaction heterogeneity and uncertainty in edge semantics. It introduces a semantic-aware graph model with an information-bottleneck-based edge differentiation mechanism to suppress noisy interactions during message passing. Experiments demonstrate consistent improvements in accuracy and robustness. 
+      ISG-CD addresses two key challenges in GNN-based cognitive diagnosis: interaction heterogeneity and uncertainty in edge semantics. It introduces a semantic-aware graph model with an information-bottleneck-based edge differentiation mechanism to suppress noisy interactions during message passing. 
     </div>
   </div>
 </div>
