@@ -42,7 +42,9 @@ Featured Publications
     </div>
   </div>
 </div>
+
 ---
+
 <div class="pub-card">
   <div class="pub-fig">
     <img src="/images/KDD2025.png" alt="paper figure">
