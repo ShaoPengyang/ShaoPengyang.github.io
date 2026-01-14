@@ -28,10 +28,10 @@ Featured Publications
 
 <div class="pub-card">
   <div class="pub-fig">
-    <img src="/images/pubs/paper1.png" alt="paper1 figure">
+    <img src="/images/www2026.png" alt="paper1 figure">
   </div>
   <div class="pub-body">
-    <div class="pub-title">Paper Title 1</div>
+    <div class="pub-title">Pengyang Shao, Naixin Zhai, et al. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026. [PDF](/files/WWW2026.pdf) [code](https://anonymous.4open.science/r/anonymous_web4good2026_id480-2DE5)</div>
     <div class="pub-meta">TOIS, 2026 · Acceptance upon minor revisions</div>
     <div class="pub-desc">
       用 3–5 行概述：研究问题、核心方法、主要贡献与结果亮点（如提升幅度/benchmark 结论）。
