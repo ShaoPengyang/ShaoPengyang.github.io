@@ -43,6 +43,21 @@ Featured Publications
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-fig">
+    <img src="/images/www2026.png" alt="paper figure">
+  </div>
+  <div class="pub-body">
+    <div class="pub-desc">
+      <em> Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025.</em>
+      <a href="https://arxiv.org/pdf/2403.05559">[pdf]</a>
+      <a href="https://github.com/ShaoPengyang/ISG-CD">[code]</a>
+      <br>
+      ISG-CD addresses two key challenges in GNN-based cognitive diagnosis: interaction heterogeneity and uncertainty in edge semantics. It introduces a semantic-aware graph model with an information-bottleneck-based edge differentiation mechanism to suppress noisy interactions during message passing. Experiments demonstrate consistent improvements in accuracy and robustness. 
+    </div>
+  </div>
+</div>
+
 
 <!-- <div class="pub-card">
   <div class="pub-fig">
