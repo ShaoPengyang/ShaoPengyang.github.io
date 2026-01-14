@@ -55,7 +55,7 @@ Featured Publications
       <a href="https://arxiv.org/pdf/2403.05559">[pdf]</a>
       <a href="https://github.com/ShaoPengyang/ISG-CD">[code]</a>
       <br>
-      ISG-CD addresses two key challenges in GNN-based cognitive diagnosis: interaction heterogeneity and uncertainty in edge semantics. It introduces a semantic-aware graph model with an information-bottleneck-based edge differentiation mechanism to suppress noisy interactions during message passing. Experiments on three real-world datasets demonstrate consistent improvements in diagnostic accuracy and robustness.
+      ISG-CD addresses two key challenges in GNN-based cognitive diagnosis: interaction heterogeneity and uncertainty in edge semantics. It introduces a semantic-aware graph model with an information-bottleneck-based edge differentiation mechanism to suppress noisy interactions during message passing. 
     </div>
   </div>
 </div>
