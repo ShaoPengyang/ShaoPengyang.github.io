@@ -31,20 +31,19 @@ Featured Publications
     <img src="/images/www2026.png" alt="paper1 figure">
   </div>
   <div class="pub-body">
-    <div class="pub-title">Pengyang Shao, Naixin Zhai, et al. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026. [PDF](/files/WWW2026.pdf) [code](https://anonymous.4open.science/r/anonymous_web4good2026_id480-2DE5)</div>
-    <div class="pub-meta">TOIS, 2026 · Acceptance upon minor revisions</div>
+    <div class="pub-title">Pengyang Shao, Naixin Zhai, et al. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. </div>
+    <div class="pub-meta">WWW 2026.</div>
     <div class="pub-desc">
-      用 3–5 行概述：研究问题、核心方法、主要贡献与结果亮点（如提升幅度/benchmark 结论）。
+      We propose BalDRO, a distributionally robust optimization (DRO) framework for large language model unlearning that explicitly addresses sample-wise imbalance in forgetting difficulty. By formulating unlearning as a min–sup optimization, BalDRO adaptively emphasizes hard-to-forget samples and prevents over-forgetting of easy ones. We develop two practical variants—BalDRO-G and BalDRO-DV—which can be seamlessly integrated into existing gradient-based unlearning methods. Extensive experiments on TOFU and MUSE benchmarks demonstrate significant improvements in forgetting quality while better preserving model utility.
     </div>
     <div class="pub-links">
-      <a href="PDF链接">Paper</a>
-      <a href="代码链接">Code</a>
-      <a href="项目页链接">Project</a>
+      <a href="/files/WWW2026.pdf">Paper</a>
+      <a href="https://anonymous.4open.science/r/anonymous_web4good2026_id480-2DE5">Code</a>
     </div>
   </div>
 </div>
 
-<div class="pub-card">
+<!-- <div class="pub-card">
   <div class="pub-fig">
     <img src="/images/pubs/paper2.png" alt="paper2 figure">
   </div>
@@ -59,7 +58,7 @@ Featured Publications
       <a href="代码链接">Code</a>
     </div>
   </div>
-</div>
+</div> -->
 ---
 
 Publications (First Author / Corresponding Author)
