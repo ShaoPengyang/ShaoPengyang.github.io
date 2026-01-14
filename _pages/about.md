@@ -33,8 +33,8 @@ Featured Publications
   <div class="pub-body">
     <!-- <div class="pub-title"></div> -->
     <div class="pub-desc">
-      *BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026.* [pdf](/files/WWW2026.pdf) [code](https://anonymous.4open.science/r/anonymous_web4good2026_id480-2DE5)
-      We propose BalDRO, a distributionally robust optimization (DRO) framework for LLM unlearning that addresses sample-wise imbalance. By formulating unlearning as a min–sup optimization, BalDRO adaptively emphasizes hard-to-forget samples and prevents over-forgetting of easy ones. Extensive experiments on TOFU and MUSE benchmarks demonstrate the effectiveness of BalDRO.
+      *BalDRO: A Distributionally Robust Optimization based Framework for LLM Unlearning. WWW 2026.* [pdf](/files/WWW2026.pdf) [code](https://anonymous.4open.science/r/anonymous_web4good2026_id480-2DE5)
+      We propose BalDRO, a distributionally robust optimization framework that addresses sample-wise imbalance in LLM unlearning. By formulating unlearning as a min–sup optimization, BalDRO adaptively emphasizes hard-to-forget samples and prevents over-forgetting of easy ones. Extensive experiments on TOFU and MUSE benchmarks demonstrate the effectiveness of BalDRO.
     </div>
     <!-- <div class="pub-links">
       <a href="/files/WWW2026.pdf"></a>
