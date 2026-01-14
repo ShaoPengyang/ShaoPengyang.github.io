@@ -23,6 +23,45 @@ Trustworthy LLM/Agent, LLM based applications, Information Retrieval
 
 ---
 
+Featured Publications
+======
+
+<div class="pub-card">
+  <div class="pub-fig">
+    <img src="/images/pubs/paper1.png" alt="paper1 figure">
+  </div>
+  <div class="pub-body">
+    <div class="pub-title">Paper Title 1</div>
+    <div class="pub-meta">TOIS, 2026 · Acceptance upon minor revisions</div>
+    <div class="pub-desc">
+      用 3–5 行概述：研究问题、核心方法、主要贡献与结果亮点（如提升幅度/benchmark 结论）。
+    </div>
+    <div class="pub-links">
+      <a href="PDF链接">Paper</a>
+      <a href="代码链接">Code</a>
+      <a href="项目页链接">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-fig">
+    <img src="/images/pubs/paper2.png" alt="paper2 figure">
+  </div>
+  <div class="pub-body">
+    <div class="pub-title">Paper Title 2</div>
+    <div class="pub-meta">WWW Web4Good, 2026 · Accepted</div>
+    <div class="pub-desc">
+      第二篇同样写简洁介绍。
+    </div>
+    <div class="pub-links">
+      <a href="PDF链接">Paper</a>
+      <a href="代码链接">Code</a>
+    </div>
+  </div>
+</div>
+---
+
 Publications (First Author / Corresponding Author)
 ======
 \* denotes corresponding author. 
