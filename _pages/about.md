@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -80,14 +80,14 @@ Publications (First Author / Corresponding Author)
 \* denotes corresponding author. 
 
 
-- **Pengyang Shao**, Naixin Zhai, et al. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 web4good track.
-- **Pengyang Shao**, Lei Chen, et al. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle. 
-- Jilong Liu, **Pengyang Shao\***, et al. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026. 
-- **Pengyang Shao**, Yonghui Yang, et al. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025. 
-- **Pengyang Shao**, Le Wu, et al. Average User-side Counterfactual Fairness for Collaborative Filtering. ACM TOIS, 2024. 
-- **Pengyang Shao**, Le Wu, et al. FairCF: Fairness-aware collaborative filtering. Science China Information Sciences, 2022. 
-- **Pengyang Shao**, Zihan Wang, et al. Towards Reliable Cross-Domain Recommendation: A Disentangled Global Graph Learning based Framework. Frontiers of Computer Science, 2025.
-- **Pengyang Shao**, Chen Gao, et al. Breaking student-concept sparsity barrier for cognitive diagnosis. Frontiers of Computer Science, 2025.
+- **Pengyang Shao**, Naixin Zhai, et al. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 web4good track (CCF A).
+- **Pengyang Shao**, Lei Chen, et al. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle (CCF A). 
+- Jilong Liu, **Pengyang Shao\***, et al. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026 (CCF A). 
+- **Pengyang Shao**, Yonghui Yang, et al. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025 (CCF A). 
+- **Pengyang Shao**, Le Wu, et al. Average User-side Counterfactual Fairness for Collaborative Filtering. ACM TOIS, 2024 (CCF A). 
+- **Pengyang Shao**, Le Wu, et al. FairCF: Fairness-aware collaborative filtering. Science China Information Sciences, 2022 (CCF A). 
+- **Pengyang Shao**, Zihan Wang, et al. Towards Reliable Cross-Domain Recommendation: A Disentangled Global Graph Learning based Framework. Frontiers of Computer Science, 2025 (CCF B).
+- **Pengyang Shao**, Chen Gao, et al. Breaking student-concept sparsity barrier for cognitive diagnosis. Frontiers of Computer Science, 2025 (CCF B).
 
 ---
 
