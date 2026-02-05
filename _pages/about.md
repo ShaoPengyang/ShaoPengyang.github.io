@@ -80,7 +80,7 @@ Publications (First Author / Corresponding Author)
 \* denotes corresponding author. 
 
 
-- **Pengyang Shao**, Naixin Zhai, et al. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 web4good track (CCF A).
+- **Pengyang Shao**, Naixin Zhai, et al. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 (CCF A).
 - **Pengyang Shao**, Lei Chen, et al. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle (CCF A). 
 - Jilong Liu, **Pengyang Shao\***, et al. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026 (CCF A). 
 - **Pengyang Shao**, Yonghui Yang, et al. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025 (CCF A). 
