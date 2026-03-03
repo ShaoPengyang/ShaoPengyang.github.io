@@ -92,7 +92,7 @@ Published / Accepted
 ------
 
 - Pengyang Shao, Naixin Zhai, Lei Chen, Yonghui Yang, Fengbin Zhu\*, Xun Yang\*, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 (CCF A).
-- Pengyang Shao, Lei Chen, et al. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle (CCF A). 
+- Pengyang Shao, Lei Chen\*, Fei Liu, Yonghui Yang, Xun Yang, Meng Wang\*. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle (CCF A). 
 - Jilong Liu, Pengyang Shao\*, Wei Qin, Fei Liu, Yonghui Yang, Richang Hong\*. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026 (CCF A). 
 - Pengyang Shao†, Yonghui Yang†, Chen Gao, Lei Chen, Kun Zhang, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang\*. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025 (CCF A). 
 - Pengyang Shao, Le Wu\*, Kun Zhang, Defu Lian, Richang Hong, Yong Li, Meng Wang\*. Average User-side Counterfactual Fairness for Collaborative Filtering. ACM TOIS, 2024 (CCF A). 
