@@ -77,28 +77,28 @@ Featured Publications
 
 Publications
 ======
-* denotes corresponding author.  † denotes equal contribution. 
+\* denotes corresponding author.  † denotes equal contribution. 
 
 Preprints
 ------
 
-- Enyi Shi†, Pengyang Shao†, Yanxin Zhang, Chenhang Cui, Jiayi Lyu, Xu Xie, Xiaobo Xia, Fei Shen*, Tat-Seng Chua. Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. arXiv preprint arXiv:2601.03190, 2026.  
+- Enyi Shi†, Pengyang Shao†, Yanxin Zhang, Chenhang Cui, Jiayi Lyu, Xu Xie, Xiaobo Xia, Fei Shen\*, Tat-Seng Chua. Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. arXiv preprint arXiv:2601.03190, 2026.  
   <a href="https://arxiv.org/abs/2601.03190">[pdf]</a>
 
-- Naixin Zhai, Pengyang Shao*, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang*. Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models. arXiv preprint arXiv:2601.22737, 2026.  
+- Naixin Zhai, Pengyang Shao\*, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang\*. Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models. arXiv preprint arXiv:2601.22737, 2026.  
   <a href="https://arxiv.org/abs/2601.22737">[pdf]</a>
 
 Published / Accepted
 ------
 
-- Pengyang Shao, Naixin Zhai, Lei Chen, Yonghui Yang, Fengbin Zhu*, Xun Yang*, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 (CCF A).
+- Pengyang Shao, Naixin Zhai, Lei Chen, Yonghui Yang, Fengbin Zhu\*, Xun Yang\*, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 (CCF A).
 - Pengyang Shao, Lei Chen, et al. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle (CCF A). 
-- Jilong Liu, Pengyang Shao*, Wei Qin, Fei Liu, Yonghui Yang, Richang Hong*. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026 (CCF A). 
-- Pengyang Shao†, Yonghui Yang†, Chen Gao, Lei Chen, Kun Zhang, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang*. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025 (CCF A). 
-- Pengyang Shao, Le Wu*, Kun Zhang, Defu Lian, Richang Hong, Yong Li, Meng Wang*. Average User-side Counterfactual Fairness for Collaborative Filtering. ACM TOIS, 2024 (CCF A). 
-- Pengyang Shao, Le Wu*, Lei Chen, Kun Zhang, Meng Wang*. FairCF: Fairness-aware collaborative filtering. Science China Information Sciences, 2022 (CCF A). 
+- Jilong Liu, Pengyang Shao\*, Wei Qin, Fei Liu, Yonghui Yang, Richang Hong\*. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026 (CCF A). 
+- Pengyang Shao†, Yonghui Yang†, Chen Gao, Lei Chen, Kun Zhang, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang\*. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025 (CCF A). 
+- Pengyang Shao, Le Wu\*, Kun Zhang, Defu Lian, Richang Hong, Yong Li, Meng Wang\*. Average User-side Counterfactual Fairness for Collaborative Filtering. ACM TOIS, 2024 (CCF A). 
+- Pengyang Shao, Le Wu\*, Lei Chen, Kun Zhang, Meng Wang\*. FairCF: Fairness-aware collaborative filtering. Science China Information Sciences, 2022 (CCF A). 
 - Pengyang Shao, Zihan Wang, Junsong Xie, Yonghui Yang, Meng Wang. Towards Reliable Cross-Domain Recommendation: A Disentangled Global Graph Learning based Framework. Frontiers of Computer Science, 2025 (CCF B).
-- Pengyang Shao, Kun Zhang*, Chen Gao*, Lei Chen, Miaomiao Cai, Le Wu, Yong Li, Meng Wang. Breaking student-concept sparsity barrier for cognitive diagnosis. Frontiers of Computer Science, 2025 (CCF B).
+- Pengyang Shao, Kun Zhang\*, Chen Gao\*, Lei Chen, Miaomiao Cai, Le Wu, Yong Li, Meng Wang. Breaking student-concept sparsity barrier for cognitive diagnosis. Frontiers of Computer Science, 2025 (CCF B).
 
 ---
 
