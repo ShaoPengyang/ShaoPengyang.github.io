@@ -82,9 +82,10 @@ Publications
 Preprints
 ------
 
-- Enyi Shi†, Pengyang Shao†, Yanxin Zhang, Chenhang Cui, Jiayi Lyu, Xu Xie, Xiaobo Xia, Fei Shen\*, Tat-Seng Chua. Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning.  <a href="https://arxiv.org/abs/2601.03190">[pdf]</a>
+- Naixin Zhai, Pengyang Shao\*, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang\*. Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning.  <a href="https://arxiv.org/abs/2601.03190">[pdf]</a>
 
-- Naixin Zhai, Pengyang Shao\*, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang\*. Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models. <a href="https://arxiv.org/abs/2601.22737">[pdf]</a>
+
+- Enyi Shi†, Pengyang Shao†, Yanxin Zhang, Chenhang Cui, Jiayi Lyu, Xu Xie, Xiaobo Xia, Fei Shen\*, Tat-Seng Chua. Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models. <a href="https://arxiv.org/abs/2601.22737">[pdf]</a>
 
 Published / Accepted
 ------
