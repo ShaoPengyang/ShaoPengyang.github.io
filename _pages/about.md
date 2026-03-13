@@ -90,6 +90,7 @@ Preprints
 Published / Accepted
 ------
 
+- Pengyang Shao, Le Wu, Kun Zhang, Lei Chen, Meng Wang. Privacy Matters: Data Attack to Make User Preferences Unlearnable in Recommendation. ACM TOIS 2026 (CCF A), just accepted. 
 - Pengyang Shao, Naixin Zhai, Lei Chen, Yonghui Yang, Fengbin Zhu\*, Xun Yang\*, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026 (CCF A).
 - Pengyang Shao, Lei Chen\*, Fei Liu, Yonghui Yang, Xun Yang, Meng Wang\*. Multi-Agent Debate based Concept Augmentation for Enhanced Cognitive Diagnosis. KDD 2026 August Cycle (CCF A). 
 - Jilong Liu, Pengyang Shao\*, Wei Qin, Fei Liu, Yonghui Yang, Richang Hong\*. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. AAAI 2026 (CCF A). 
