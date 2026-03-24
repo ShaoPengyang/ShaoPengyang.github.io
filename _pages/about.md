@@ -104,8 +104,8 @@ Published / Accepted
 
 Academic Services
 ======
-Conference Area Chair: ACL ARR 2026 January
-Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, ACL etc.
+- Conference Area Chair: ACL ARR 2026 January
+- Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, ACL etc.
 
 ---
 
@@ -113,3 +113,4 @@ Awards
 ======
 - China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)				2024
 -	First-Class Graduate Academic Scholarship (awarded annually)		2021-2024
+-	Outstanding Graduate of Anhui Province 2019
