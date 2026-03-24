@@ -104,7 +104,8 @@ Published / Accepted
 
 Academic Services
 ======
-Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, etc.
+Conference Area Chair: ACL ARR 2026 January
+Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, ACL etc.
 
 ---
 
