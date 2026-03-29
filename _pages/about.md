@@ -11,11 +11,6 @@ I am Pengyang Shao (邵鹏阳), a visiting researcher at NExT++ Lab (National Un
 
 ---
 
-Research Interests
-======
-Trustworthy LLM
----
-
 Featured Publications
 ======
 
