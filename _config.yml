@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shao Pengyang"
-  pronouns         : "he/him"
-  bio              : "Keep moving forward"
+  pronouns         : # "he/him"
+  bio              : # "Keep moving forward"
   location         : # "Earth"
-  employer         : "National University of Singapore"
+  employer         : # "National University of Singapore"
   uri              : # URL
   email            : "shaopymark@gmail.com" 
 
