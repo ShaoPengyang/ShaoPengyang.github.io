@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Pengyang Shao, a visiting researcher at NExT++ Lab (National University of Singapore) working with [Prof. Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). I received my Ph.D. (July 2025) from Hefei University of Technology, supervised by [Prof. Meng Wang](https://sites.google.com/view/meng-wang/home). My main research interest focuses on Trustworthy LLM, e.g., safety or unlearning. 
+Pengyang Shao, a visiting postdoc at NExT++ Lab (National University of Singapore) working with [Prof. Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). I received my Ph.D. (July 2025) from Hefei University of Technology, supervised by [Prof. Meng Wang](https://sites.google.com/view/meng-wang/home). My current research interest focuses on Trustworthy LLM, e.g., safety or unlearning. 
 
 ---
 
@@ -96,7 +96,6 @@ Published / Accepted
 
 Academic Services
 ======
-- Conference Area Chair: ACL ARR 2026 January
 - Journal/Conference Reviewer: IEEE TKDE, ACM ToRS/TOIS, IJCAI, KDD, WWW, AAAI, ACL etc.
 
 ---
