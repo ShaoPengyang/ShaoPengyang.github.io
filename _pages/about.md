@@ -97,7 +97,7 @@ Published / Accepted
 
 Academic Services
 ======
-- Journal Reviewer: IEEE TKDE, ACM ToRS/TOIS/TiiS, etc.
+- Journal Reviewer: IEEE TKDE, ACM ToRS/TOIS/TiiS, Pattern Recognition, etc.
 - Conference Reviewer: SIGIR, KDD, WWW, AAAI, ACL, CIKM, etc.
 
 ---
