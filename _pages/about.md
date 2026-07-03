@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
+---
 
 I am Shao Pengyang (邵鹏阳), currently a postdoc at National University of Singapore, mentored by Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/) and [Yunshan Ma](https://mysbupt.github.io/). I received my Ph.D. in July 2025 from Hefei University of Technology, under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home). My current research focuses on LLM unlearning and safety, LLM latent knowledge, and recommender systems. I have also mentored students in related research directions. For example, I supervised [Naixin Zhai](https://scholar.google.com/citations?hl=en&user=hwR0iLgAAAAJ), who published at ACL 2026 Main Conference as the first author, and [Jilong Liu](https://scholar.google.com/citations?user=KqbILgIAAAAJ&hl=zh-CN), who published at AAAI 2026.  If you are interested in my research, feel free to [contact me](shaopymark@gmail.com).
 
