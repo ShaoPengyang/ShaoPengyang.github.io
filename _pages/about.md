@@ -39,15 +39,16 @@ Featured Publications
 
 <div class="pub-card">
   <div class="pub-fig">
-    <img src="/images/KDD2025.png" alt="paper figure">
+    <img src="/images/ACL.svg" alt="ACL logo">
   </div>
   <div class="pub-body">
     <div class="pub-desc">
-      <em> Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. KDD 2025.</em>
-      <a href="https://arxiv.org/pdf/2403.05559">[pdf]</a>
-      <a href="https://github.com/ShaoPengyang/ISG-CD">[code]</a>
+      <em>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026.</em>
+      <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
+      <a href="https://github.com/nxZhai/PALU">[code]</a>
       <br>
-      ISG-CD addresses two key challenges in GNN-based cognitive diagnosis: interaction heterogeneity and uncertainty in edge semantics. It introduces a semantic-aware graph model with an information-bottleneck-based edge differentiation mechanism to suppress noisy interactions during message passing. 
+      We propose PALU (Prefix-Aware Localized Unlearning), a framework driven by local entropy maximization across both temporal and vocabulary dimensions.
+      PALU shows that suppressing the sensitive prefix alone is sufficient to sever the causal generation link, and flattening only the top-K logits is adequate to maximize uncertainty in the critical subspace.
     </div>
   </div>
 </div>
