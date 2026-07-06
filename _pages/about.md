@@ -20,6 +20,25 @@ Featured Publications
 
 <div class="pub-card">
   <div class="pub-fig">
+    <img src="/images/ACL.png" alt="ACL logo">
+  </div>
+  <div class="pub-body">
+    <div class="pub-desc">
+      <em>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026.</em>
+      <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
+      <a href="https://github.com/nxZhai/PALU">[code]</a>
+      <br>
+      We propose PALU (Prefix-Aware Localized Unlearning), a framework driven by local entropy maximization across both temporal and vocabulary dimensions.
+      PALU shows that suppressing the sensitive prefix alone is sufficient to sever the causal generation link, and flattening only the top-K logits is adequate to maximize uncertainty in the critical subspace.
+    </div>
+  </div>
+</div>
+
+---
+
+
+<div class="pub-card">
+  <div class="pub-fig">
     <img src="/images/www2026.png" alt="paper figure">
   </div>
   <div class="pub-body">
@@ -37,23 +56,6 @@ Featured Publications
 
 ---
 
-<div class="pub-card">
-  <div class="pub-fig">
-    <img src="/images/ACL.svg" alt="ACL logo">
-  </div>
-  <div class="pub-body">
-    <div class="pub-desc">
-      <em>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026.</em>
-      <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
-      <a href="https://github.com/nxZhai/PALU">[code]</a>
-      <br>
-      We propose PALU (Prefix-Aware Localized Unlearning), a framework driven by local entropy maximization across both temporal and vocabulary dimensions.
-      PALU shows that suppressing the sensitive prefix alone is sufficient to sever the causal generation link, and flattening only the top-K logits is adequate to maximize uncertainty in the critical subspace.
-    </div>
-  </div>
-</div>
-
----
 
 Publications
 ======
