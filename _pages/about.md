@@ -20,7 +20,7 @@ Featured Publications
 
 <div class="pub-card">
   <div class="pub-fig">
-    <img src="/images/ACL.png" alt="ACL logo">
+    <img src="/images/acl.png" alt="ACL logo">
   </div>
   <div class="pub-body">
     <div class="pub-desc">
