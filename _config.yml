@@ -28,7 +28,7 @@ author:
   pronouns         : # "he/him"
   bio              : "Strike while the iron is hot"
   location         : # "Earth"
-  employer         : # "National University of Singapore"
+  employer         :  "National University of Singapore"
   uri              : # URL
   email            : "shaopymark@gmail.com" 
 
@@ -37,7 +37,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=kqODdxgAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  semantic         : "https://www.semanticscholar.org/author/Pengyang-Shao/2386014645?utm_content=AuthorProfile&utm_source=alert_email&utm_campaign=AlertEmails_DAILY&utm_term=AuthorCitation&utm_medium=69208600"
+  semantic         : # "https://www.semanticscholar.org/author/Pengyang-Shao/2386014645?utm_content=AuthorProfile&utm_source=alert_email&utm_campaign=AlertEmails_DAILY&utm_term=AuthorCitation&utm_medium=69208600"
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -49,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ShaoPengyang"
+  github           : # "ShaoPengyang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -231,6 +231,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  essays:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -288,6 +291,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _essays
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: false
+      comments: false
+      related: false
 
 
 # Sass/SCSS
