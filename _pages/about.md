@@ -91,8 +91,8 @@ Academic Services
 
 Awards
 ======
-- 2026.7    Outstanding Paper Award	at ACL 2026	
-- 2025.5    Best Paper Award at TIME 2025(Workshop on TheWebConf 2025)		
-- 2024.12   China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)		
--	2021-2024 First-Class Graduate Academic Scholarship (awarded annually)		
--	2019.6    Outstanding Graduate of Anhui Province 
+* **2026.07** Outstanding Paper Award at ACL 2026
+* **2025.05** Best Paper Award at TIME 2025 (Workshop on TheWebConf 2025)
+* **2024.12** China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)
+* **2021.09** First-Class Graduate Academic Scholarship (Awarded Annually, 2021–2024)
+* **2019.06** Outstanding Graduate of Anhui Province
