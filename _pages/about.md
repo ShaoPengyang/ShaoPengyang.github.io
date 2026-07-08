@@ -24,7 +24,7 @@ Featured Publications
   </div>
   <div class="pub-body">
     <div class="pub-desc">
-      <em>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026.</em>
+      <em>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026 Oral Presentation.</em>
       <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
       <a href="https://github.com/nxZhai/PALU">[code]</a>
       <br>
@@ -43,7 +43,7 @@ Featured Publications
   </div>
   <div class="pub-body">
     <div class="pub-desc">
-      <em>BalDRO: A Distributionally Robust Optimization based Framework for LLM Unlearning. WWW 2026.</em>
+      <em>BalDRO: A Distributionally Robust Optimization based Framework for LLM Unlearning. WWW 2026 Oral Presentation.</em>
       <a href="https://dl.acm.org/doi/10.1145/3774904.3792975">[pdf]</a>
       <a href="https://github.com/nxZhai/BalDRO">[code]</a>
       <br>
@@ -91,6 +91,8 @@ Academic Services
 
 Awards
 ======
-- China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)				2024
--	First-Class Graduate Academic Scholarship (awarded annually)		2021-2024
--	Outstanding Graduate of Anhui Province 2019
+- 2026.7    Outstanding Paper Award	at ACL 2026	
+- 2025.5    Best Paper Award at TIME 2025(Workshop on TheWebConf 2025)		
+- 2024.12   China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)		
+-	2021-2024 First-Class Graduate Academic Scholarship (awarded annually)		
+-	2019.6    Outstanding Graduate of Anhui Province 
