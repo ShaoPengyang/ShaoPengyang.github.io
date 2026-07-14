@@ -72,7 +72,7 @@ Featured Publications
 ---
 
 
-Publications
+Important Publications
 ======
 \* denotes corresponding author.  † denotes equal contribution. 
 
