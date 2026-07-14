@@ -8,21 +8,19 @@ redirect_from:
 ---
 
 
-I am **Shao Pengyang (邵鹏阳)**, currently a postdoctoral researcher at the **National University of Singapore**, mentored by Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/) and [Yunshan Ma](https://mysbupt.github.io/). I received my Ph.D. in July 2025 from **Hefei University of Technology**, under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home).
-
-My current research focuses on **AI+X** and **trustworthy AI**, with the goal of developing reliable and responsible AI techniques and applying them to meaningful real-world problems across different domains.
+I am **Shao Pengyang (邵鹏阳)**, currently a postdoctoral researcher at the **National University of Singapore**, mentored by Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/) and [Yunshan Ma](https://mysbupt.github.io/). I received my Ph.D. in July 2025 from **Hefei University of Technology**, under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home). My current research focuses on **AI+X** and **trustworthy AI**, with the goal of developing reliable and responsible AI techniques and applying them to meaningful real-world problems across different domains.
 
 I have also mentored students on several research projects:
 
 - [Naixin Zhai](https://scholar.google.com/citations?hl=en&user=hwR0iLgAAAAJ), whose first-author paper was accepted by the **ACL 2026 Main Conference** and received an **Outstanding Paper Award**;
-- [Jilong Liu](https://scholar.google.com/citations?user=KqbILgIAAAAJ&hl=zh-CN), whose work was accepted by **AAAI 2026** as an **Oral Presentation**;
+- [Jilong Liu](https://scholar.google.com/citations?user=KqbILgIAAAAJ&hl=zh-CN), whose first-author paper was accepted by **AAAI 2026** as an **Oral Presentation**;
 - **Chao Chen**, a Ph.D. candidate at Hefei University of Technology, on two projects concerning **LLM personalization** and **over-refusal in LLM safety alignment**;
-- [Yanzheng Jin](https://scholar.google.com/citations?user=HuJSpRAAAAAJ&hl=en), on two projects concerning **LLM unlearning** and **AI for finance**, with the latter focusing on stock prediction;
+- [Yanzheng Jin](https://scholar.google.com/citations?user=HuJSpRAAAAAJ&hl=en), on two projects concerning **LLM unlearning** and **AI for finance**;
 - **Chuanpeng Lu**, on an ongoing project developing a new **LLM unlearning benchmark**.
 
 I am also happy to connect and recommend qualified students for relevant industry internship opportunities. If you are interested in collaboration, please feel free to contact me. 
 
-I am currently exploring research and R&D positions related to **AI+X** and **trustworthy AI**. I am enthusiastic about expanding into new AI application domains beyond my current research areas, rather than limiting myself to a fixed set of applications. Regardless of the specific domain, my central research interest remains the same: understanding whether AI systems can be developed, evaluated, and deployed in a **trustworthy, reliable, safe, and responsible** manner.
+I am currently exploring research positions related to **AI+X** and **trustworthy AI**. I am enthusiastic about expanding into new AI application domains beyond my current research areas, rather than limiting myself to a fixed set of applications. Regardless of the specific domain, my central research interest remains the same: understanding whether AI systems can be developed, evaluated, and deployed in a **trustworthy, reliable, safe, and responsible** manner.
 
 If you are interested in my research, potential collaborations, or relevant opportunities, please feel free to contact me.
 
