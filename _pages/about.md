@@ -76,13 +76,6 @@ Important Publications
 ======
 \* denotes corresponding author.  † denotes equal contribution. 
 
-Preprints
-------
-
-- Enyi Shi†, Pengyang Shao†, Yanxin Zhang, Chenhang Cui, Jiayi Lyu, Xu Xie, Xiaobo Xia, Fei Shen\*, Tat-Seng Chua. Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models. <a href="https://arxiv.org/abs/2601.22737">[pdf]</a>
-
-Published / Accepted
-------
 - Fengbin Zhu†, Zijing Cai†, Yuzhe Wang, Pengyang Shao\*, Wenjie Wang, Fuli Feng, Richang Hong\*, Tat-Seng Chua. MURE: Hierarchical Multi-Resolution Encoding via Vision-Language Models for Visual Document Retrieval. ICMR 2026. <a href="https://dl.acm.org/doi/full/10.1145/3805622.3810864">[pdf]</a>
 - Naixin Zhai, Pengyang Shao\*, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang\*. Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026. <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
 - Pengyang Shao, Le Wu, Kun Zhang, Lei Chen, Meng Wang. Privacy Matters: Data Attack to Make User Preferences Unlearnable in Recommendation. ACM TOIS 2026. <a href="https://dl.acm.org/doi/10.1145/3803545">[pdf]</a>
