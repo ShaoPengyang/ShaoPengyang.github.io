@@ -76,7 +76,6 @@ Important Publications
 ======
 \* denotes corresponding author.  † denotes equal contribution. 
 
-- Fengbin Zhu†, Zijing Cai†, Yuzhe Wang, Pengyang Shao\*, Wenjie Wang, Fuli Feng, Richang Hong\*, Tat-Seng Chua. MURE: Hierarchical Multi-Resolution Encoding via Vision-Language Models for Visual Document Retrieval. ICMR 2026. <a href="https://dl.acm.org/doi/full/10.1145/3805622.3810864">[pdf]</a>
 - Naixin Zhai, Pengyang Shao\*, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang\*. Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026. <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
 - Pengyang Shao, Le Wu, Kun Zhang, Lei Chen, Meng Wang. Privacy Matters: Data Attack to Make User Preferences Unlearnable in Recommendation. ACM TOIS 2026. <a href="https://dl.acm.org/doi/10.1145/3803545">[pdf]</a>
 - Pengyang Shao, Naixin Zhai, Lei Chen, Yonghui Yang, Fengbin Zhu\*, Xun Yang\*, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026. <a href="https://dl.acm.org/doi/10.1145/3774904.3792975">[pdf]</a>
