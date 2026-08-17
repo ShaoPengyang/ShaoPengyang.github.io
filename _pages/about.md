@@ -7,13 +7,28 @@ redirect_from:
   - /about.html
 ---
 
+
+I am **Shao Pengyang (邵鹏阳)**, currently a postdoctoral researcher at the **National University of Singapore**, mentored by Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/) and [Yunshan Ma](https://mysbupt.github.io/). I received my Ph.D. in July 2025 from **Hefei University of Technology**, under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home). My current research focuses on **AI+X** and **trustworthy AI**, with the goal of developing reliable and responsible AI techniques and applying them to meaningful real-world problems across different domains.
+
+I have also mentored students on several research projects:
+
+- [Naixin Zhai](https://scholar.google.com/citations?hl=en&user=hwR0iLgAAAAJ), whose first-author paper was accepted by the **ACL 2026 Main Conference** and received an **Outstanding Paper Award**;
+- [Jilong Liu](https://scholar.google.com/citations?user=KqbILgIAAAAJ&hl=zh-CN), whose first-author paper was accepted by **AAAI 2026** as an **Oral Presentation**;
+- **Chao Chen**, a Ph.D. candidate at Hefei University of Technology, on two projects concerning **LLM personalization** and **over-refusal in LLM safety alignment**;
+- [Yanzheng Jin](https://scholar.google.com/citations?user=HuJSpRAAAAAJ&hl=en), on two projects concerning **LLM unlearning** and **AI for finance**;
+- **Chuanpeng Lu**, on an ongoing project developing a new **LLM unlearning benchmark**.
+
+I am also happy to connect and recommend qualified students for relevant industry internship opportunities. If you are interested in collaboration, please feel free to contact me. 
+
+I am currently exploring research positions related to **AI+X** and **trustworthy AI**. I am enthusiastic about expanding into new AI application domains beyond my current research areas, rather than limiting myself to a fixed set of applications. Regardless of the specific domain, my central research interest remains the same: understanding whether AI systems can be developed, evaluated, and deployed in a **trustworthy, reliable, safe, and responsible** manner.
+
+If you are interested in my research, potential collaborations, or relevant opportunities, please feel free to contact me.
+
+**Email:** shaopymark at gmail.com · shaopymark at nus.edu.sg
+
+
 ---
 
-I am Shao Pengyang (邵鹏阳), currently a postdoc at National University of Singapore. I received my Ph.D. in July 2025 from Hefei University of Technology. My current research focuses on LLM unlearning/safety/latent knowledge, recommender systems, and AI for finance. I have also mentored students in related research directions. For example, I supervised [Naixin Zhai](https://scholar.google.com/citations?hl=en&user=hwR0iLgAAAAJ), who published at ACL 2026 Main Conference as the first author, and [Jilong Liu](https://scholar.google.com/citations?user=KqbILgIAAAAJ&hl=zh-CN), who published at AAAI 2026.  If you are interested in my research, feel free to contact me.
-
-Email: shaopymark at gmail.com
-
----
 
 Featured Publications
 ======
@@ -24,7 +39,7 @@ Featured Publications
   </div>
   <div class="pub-body">
     <div class="pub-desc">
-      <em>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026.</em>
+      <em>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026 Oral Presentation.</em>
       <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
       <a href="https://github.com/nxZhai/PALU">[code]</a>
       <br>
@@ -43,7 +58,7 @@ Featured Publications
   </div>
   <div class="pub-body">
     <div class="pub-desc">
-      <em>BalDRO: A Distributionally Robust Optimization based Framework for LLM Unlearning. WWW 2026.</em>
+      <em>BalDRO: A Distributionally Robust Optimization based Framework for LLM Unlearning. WWW 2026 Oral Presentation.</em>
       <a href="https://dl.acm.org/doi/10.1145/3774904.3792975">[pdf]</a>
       <a href="https://github.com/nxZhai/BalDRO">[code]</a>
       <br>
@@ -57,18 +72,10 @@ Featured Publications
 ---
 
 
-Publications
+Important Publications
 ======
 \* denotes corresponding author.  † denotes equal contribution. 
 
-Preprints
-------
-
-- Enyi Shi†, Pengyang Shao†, Yanxin Zhang, Chenhang Cui, Jiayi Lyu, Xu Xie, Xiaobo Xia, Fei Shen\*, Tat-Seng Chua. Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models. <a href="https://arxiv.org/abs/2601.22737">[pdf]</a>
-
-Published / Accepted
-------
-- Fengbin Zhu†, Zijing Cai†, Yuzhe Wang, Pengyang Shao\*, Wenjie Wang, Fuli Feng, Richang Hong\*, Tat-Seng Chua. MURE: Hierarchical Multi-Resolution Encoding via Vision-Language Models for Visual Document Retrieval. ICMR 2026. <a href="https://dl.acm.org/doi/full/10.1145/3805622.3810864">[pdf]</a>
 - Naixin Zhai, Pengyang Shao\*, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang\*. Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ACL 2026. <a href="https://aclanthology.org/2026.acl-long.893/">[pdf]</a>
 - Pengyang Shao, Le Wu, Kun Zhang, Lei Chen, Meng Wang. Privacy Matters: Data Attack to Make User Preferences Unlearnable in Recommendation. ACM TOIS 2026. <a href="https://dl.acm.org/doi/10.1145/3803545">[pdf]</a>
 - Pengyang Shao, Naixin Zhai, Lei Chen, Yonghui Yang, Fengbin Zhu\*, Xun Yang\*, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. WWW 2026. <a href="https://dl.acm.org/doi/10.1145/3774904.3792975">[pdf]</a>
@@ -91,6 +98,8 @@ Academic Services
 
 Awards
 ======
-- China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)				2024
--	First-Class Graduate Academic Scholarship (awarded annually)		2021-2024
--	Outstanding Graduate of Anhui Province 2019
+* **2026.07** Outstanding Paper Award at ACL 2026
+* **2025.05** Best Paper Award at TIME 2025 (Workshop on TheWebConf 2025)
+* **2024.12** China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Track)
+* **2021.09** First-Class Graduate Academic Scholarship (Awarded Annually, 2021–2024)
+* **2019.06** Outstanding Graduate of Anhui Province
