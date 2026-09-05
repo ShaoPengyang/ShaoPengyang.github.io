@@ -8,6 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Research"
+    url: /#publications
+
+  - title: "Mentoring"
+    url: /#mentoring
+
+  - title: "CV"
+    url: /files/CV-spy.pdf
+
   # - title: "Publications"
   #   url: /publications/
 
@@ -25,6 +34,9 @@ main:
     
   - title: "Essays"
     url: /essays/
+
+  - title: "Contact"
+    url: /#contact
     
   # - title: "CV"
   #   url: /cv-json/

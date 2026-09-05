@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Shao Pengyang"
 title_separator          : "-"
 name                     : &name "Shao Pengyang"
-description              : &description "Spy's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Pengyang Shao — trustworthy AI, LLM unlearning, recommender systems, and AI for education."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://shaopengyang.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Shao Pengyang"
   pronouns         : # "he/him"
-  bio              : "Strike while the iron is hot"
-  location         : # "Earth"
+  bio              : "Trustworthy AI · AI + X"
+  location         : "Singapore"
   employer         :  "National University of Singapore"
   uri              : # URL
   email            : "shaopymark@gmail.com" 
@@ -49,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "ShaoPengyang"
+  github           : "ShaoPengyang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
