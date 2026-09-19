@@ -38,8 +38,6 @@ a:focus-visible, button:focus-visible { outline: 2px solid #b96c72; outline-offs
 .site-nav a { position: relative; color: #dcdfdd; font-size: .67rem; font-weight: 750; text-decoration: none; text-transform: uppercase; letter-spacing: .12em; }
 .site-nav a:hover, .site-nav a.active { color: #fff; }
 .site-nav a.active::after { position: absolute; right: 0; bottom: -.55rem; left: 0; height: 1px; background: var(--copper); content: ""; }
-.site-nav .nav-cv { padding: .42rem .72rem; border: 1px solid rgba(255,255,255,.42); transition: color .2s ease, border-color .2s ease, background .2s ease; }
-.site-nav .nav-cv:hover { color: var(--slate); background: #fff; border-color: #fff; }
 .nav-toggle { display: none; width: 40px; height: 40px; padding: 9px; border: 0; color: inherit; background: transparent; }
 .nav-toggle > span:not(.sr-only) { display: block; height: 1px; margin: 5px 0; background: currentColor; }
 
@@ -133,7 +131,6 @@ a:focus-visible, button:focus-visible { outline: 2px solid #b96c72; outline-offs
   .site-nav.open { display: grid; }
   .site-nav a { padding: .62rem 0; }
   .site-nav a.active::after { display: none; }
-  .site-nav .nav-cv { padding: .62rem 0; border: 0; }
   .hero-inner { grid-template-columns: 150px 1fr; gap: 2rem; width: calc(100% - 36px); min-height: 385px; padding: 44px 0; }
   .portrait-wrap, .portrait { width: 150px; }
   .portrait { height: 190px; }
