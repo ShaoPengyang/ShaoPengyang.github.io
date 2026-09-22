@@ -73,11 +73,6 @@ a:focus-visible, button:focus-visible { outline: 2px solid #b96c72; outline-offs
 .section-label h2 { margin: 0; color: var(--accent); font: 500 1.78rem/1.15 var(--serif); letter-spacing: -.025em; }
 .section-body { width: 100%; min-width: 0; }
 .prose > p { max-width: 920px; margin: 0 0 1.15rem; font-size: .95rem; letter-spacing: .004em; }
-.recruiting { position: relative; display: flex; gap: 1rem; max-width: 840px; margin-top: 2.35rem; padding: 1.25rem 1.4rem; overflow: hidden; background: linear-gradient(115deg, rgba(255,255,255,.72), rgba(255,255,255,.38)); border: 1px solid rgba(132,47,58,.16); box-shadow: var(--shadow-sm); }
-.recruiting::after { position: absolute; top: 0; right: 0; width: 96px; height: 100%; background: linear-gradient(135deg, transparent 45%, rgba(178,139,97,.11)); content: ""; pointer-events: none; }
-.recruiting strong { font-family: var(--serif); font-size: 1rem; }
-.recruiting p { margin: .15rem 0 0; color: var(--muted); font-size: .82rem; }
-.status-dot { flex: 0 0 auto; width: 8px; height: 8px; margin-top: .55rem; background: #4f775c; border-radius: 50%; box-shadow: 0 0 0 4px rgba(79,119,92,.13); }
 
 .news-list, .timeline, .publication-list { margin: 0; padding: 0; list-style: none; }
 .news-list li { position: relative; display: grid; grid-template-columns: 112px 1fr; gap: 1.2rem; padding: .7rem .8rem; border-bottom: 1px solid var(--line-soft); transition: background .2s ease, transform .2s ease; }
